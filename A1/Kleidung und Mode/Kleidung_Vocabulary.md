@@ -1,6 +1,11 @@
  # VOCABULARY 
 
-### https://www.youtube.com/watch?v=WCiRvSS8BHw
+ ## Alphabets
+
+### 
+
+## Plural - die
+
  <table>
 <tr>
     <th>
@@ -186,4 +191,16 @@
         <td> pumps </td>
         <td>  </td>
  </tr>
+  <tr>
+        <td> 30. </td>
+        <td> der Strumpf (die Strümpfe)</td>
+        <td> stockings </td>
+        <td>  </td>
+ </tr>
+  <tr>
+        <td> 31. </td>
+        <td> der Uhr </td>
+        <td> Wristwatch </td>
+        <td>  </td>
+</tr>
  </table>

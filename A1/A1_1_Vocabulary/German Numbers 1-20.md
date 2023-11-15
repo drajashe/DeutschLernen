@@ -1,5 +1,5 @@
 ### Numbers from 1 to 100 
-## [https://www.youtube.com/watch?v=Bje6l_koJig&list=PLKCEuz6wxDQmcxBLovhrXZlLkFwqBy8Fd&index=2]
+## [https://www.youtube.com/watch?v=Bje6l_koJig&list=PLKCeuz6wxdQmcxBLovhrXzlLkFwqBy8Fd&index=2]
 
 <table>
 <tr>
@@ -48,7 +48,7 @@
         21  
     </td>
     <td>
-        EinundZwanzig  
+        einundzwanzig  
     </td>
     <td>
         40  
@@ -74,7 +74,7 @@
         22  
     </td>
     <td>
-        ZweiundZwanzig  
+        zweiundzwanzig  
     </td>
     <td>
         50  
@@ -100,7 +100,7 @@
         23  
     </td>
     <td>
-        drieundZwanzig  
+        drieundzwanzig  
     </td>
     <td>
         60  
@@ -126,7 +126,7 @@
         24  
     </td>
     <td>
-        VierundZwanzig  
+        vierundzwanzig  
     </td>
     <td>
         70  
@@ -152,7 +152,7 @@
         25  
     </td>
     <td>
-        fünfundZwanzig  
+        fünfundzwanzig  
     </td>
     <td>
         80  
@@ -204,7 +204,7 @@
         27  
     </td>
     <td>
-        siebenundZwanzig  
+        siebenundzwanzig  
     </td>
     <td>
     100  
@@ -230,7 +230,7 @@
         28  
     </td>
     <td>
-        AchtundZwanzig  
+        achtundzwanzig  
     </td>
     <td>
         1000  
@@ -256,7 +256,7 @@
         29  
     </td>
     <td>
-        neunundZwanzig  
+        neunundzwanzig  
     </td>
     <td>
         10.000  
@@ -282,7 +282,7 @@
         30  
     </td>
     <td>
-        Dreißig  
+        dreißig  
     </td>
     <td>
         100.000  
@@ -308,7 +308,7 @@
         31  
     </td>
     <td>
-        EinundDreißig  
+        einunddreißig  
     </td>
     <td>
         1.000.000  
@@ -334,7 +334,7 @@
         32  
     </td>
     <td>
-        ZweiundDreißig
+        zweiunddreißig
     </td>
     <td>
         1.000.000.000  
@@ -360,7 +360,7 @@
         33  
     </td>
     <td>
-        dreiundDreißig 
+        dreiunddreißig 
     </td>
     <td>
         1.000.000.000.000 
@@ -386,7 +386,7 @@
         34  
     </td>
     <td>
-        vierundDreißig
+        vierunddreißig
     </td>
     <td>
     </td>
@@ -410,7 +410,7 @@
         35  
     </td>
     <td>
-        fünfundDreißig 
+        fünfunddreißig 
         </td>
 </tr>
 <tr>
@@ -424,7 +424,7 @@
         36  
     </td>
     <td>
-        sechsundDreißig 
+        sechsunddreißig 
         </td>
             <td>  
     </td>
@@ -448,7 +448,7 @@
         37  
     </td>
     <td>
-        siebenundDreißig
+        siebenunddreißig
         </td>
             <td>  
     </td>
@@ -473,7 +473,7 @@
         38  
     </td>
     <td>
-        achtundDreißig 
+        achtunddreißig 
     </td>
         <td>  
     </td>
@@ -497,7 +497,7 @@
         39  
     </td>
     <td>
-        NeunundDreißig 
+        Neununddreißig 
     </td>
      <td>  
     </td>
@@ -516,13 +516,13 @@
         20  
     </td>
     <td>
-        Zwanzig  
+        zwanzig  
     </td>
     <td>
         40  
     </td>
     <td>
-        Veier
+        veier
     </td>
     <td>
     </td>

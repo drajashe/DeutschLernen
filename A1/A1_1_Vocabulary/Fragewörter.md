@@ -1,6 +1,6 @@
  # Fragwörter- Question words
 
-### https://www.youtube.com/watch?v=7euPPqMFnqE&list=PLKCEuz6wxDQmcxBLovhrXZlLkFwqBy8Fd
+https://www.youtube.com/watch?v=7euPPqMFnqE&list=PLKCEuz6wxDQmcxBLovhrXZlLkFwqBy8Fd
 
 12 Question words
 
@@ -54,11 +54,13 @@
     </td>
     <td>
         Wie geht's?
+        Wie alt bist du?
         Wie heißt du?
         Wie komme ich zum Bahnhof?
     </td>
     <td>
         How are you?
+        How old are you_
         How are you called?
         How do I get to the train station?
     </td>

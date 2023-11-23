@@ -1,5 +1,5 @@
 ### Numbers from 1 to 100 
-## [https://www.youtube.com/watch?v=Bje6l_koJig&list=PLKCeuz6wxdQmcxBLovhrXzlLkFwqBy8Fd&index=2]
+https://www.youtube.com/watch?v=Bje6l_koJig&list=PLKCeuz6wxdQmcxBLovhrXzlLkFwqBy8Fd&index=2
 
 <table>
 <tr>

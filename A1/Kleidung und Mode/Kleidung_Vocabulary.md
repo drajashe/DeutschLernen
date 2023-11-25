@@ -1,8 +1,10 @@
  # VOCABULARY 
 
- ## Alphabets
-
-### 
+ ## die  Kleidung und die Mode
+ Wo kaufen Sie Ihre Kleidung.
+### We have most of the words endng with 'e' is has die as bestimtiartkiel rest all are masculine
+- English words have mostly 'das'
+- der pullover is a exception
 
 ## Plural - die
 
@@ -30,27 +32,30 @@
         <td> 2. </td>
         <td> das T-Shirt(die T-Shirts)</td>
         <td> T-Shirt</td>
+        <td>Das TßShirt ist bequem.</td>
  </tr>
   <tr>
         <td> 3. </td>
         <td> die Hose (die Hosen) </td>
         <td> pants/trousers </td>
-        <td>  </td>
+        <td> Die Hose ist syu groß.</td>
  </tr>
   <tr>
         <td> 4. </td>
         <td> der Rock (die Röcke)</td>
         <td> Skirt</td>
+        <td> Skirt</td>
  </tr>
  <tr>
         <td> 5. </td>
         <td> das Kleid (die Kleider) </td>
-        <td> dress </td>
+        <td>dress</td>
+        <td>Ihr Kleid ist schön.</td>
  </tr>
   <tr>
         <td> 6. </td>
         <td> das Hemd (die Hemden) </td>
-        <td> Shirt </td>
+        <td> Shirt</td>
  </tr>
   <tr>
         <td> 7. </td>
@@ -109,7 +114,7 @@
  </tr>
    <tr>
         <td> 16. </td>
-        <td> der schuh (die Schuhe)</td>
+        <td> der Schuh (die Schuhe)</td>
         <td> Shoe </td>
         <td>  </td>
  </tr>
@@ -141,7 +146,7 @@
         <td> 21. </td>
         <td> der Anzug (die Anzüge)</td>
         <td> suit </td>
-        <td>  </td>
+        <td> Der Anyug sieht blöd aus.   - That looks dumb. </td>
  </tr>
   <tr>
         <td> 22. </td>
@@ -199,8 +204,130 @@
  </tr>
   <tr>
         <td> 31. </td>
-        <td> der Uhr </td>
+        <td> die Uhr </td>
         <td> Wristwatch </td>
         <td>  </td>
 </tr>
+ <tr>
+        <td> 32. </td>
+        <td> besser </td>
+        <td> better </td>
+        <td>  </td>
+</tr>
+ <tr>
+        <td> 33. Wo kaufen Sie Ihre Kleidung.
+ </td>
+        <td> der Kaufhaus (-häuser) </td>
+        <td> department store </td>
+        <td>  </td>
+</tr>
+ <tr>
+        <td> 34. </td>
+        <td> Kleidergeschäft (-e)  </td>
+        <td> Clothes store </td>
+        <td>  </td>
+</tr>
+ <tr>
+        <td> 35. </td>
+        <td> der Katalog (-e) </td>
+        <td>  </td>
+        <td>  </td>
+</tr>
+ <tr>
+        <td> 36. </td>
+        <td>probieren</td>
+        <td>to try or to taste</td>
+        <td> Pröbier mal das andere Hemd an </td>
+</tr>
+<tr>
+        <td> 36. </td>
+        <td>passen</td>
+        <td>to fit</td>
+        <td> Das Rock passt mir nicht. </td>
+</tr>
+<tr>
+        <td> 37. </td>
+        <td>abendkleidung</td>
+        <td>evening wear</td>
+        <td> </td>
+</tr>
+<tr>
+        <td> 38. </td>
+        <td>die Große</td>
+        <td>size</td>
+        <td> </td>
+</tr>
+<tr>
+        <td> 39. </td>
+        <td>die Umkleidekabine</td>
+        <td>Changing room</td>
+        <td> </td>
+</tr>
+<tr>
+        <td> 40. </td>
+        <td>der Pulli</td>
+        <td>pullover</td>
+        <td> </td>
+</tr>
+<tr>
+        <td> 41. </td>
+        <td>die Bademode</td>
+        <td>Swimwear</td>
+        <td> </td>
+</tr>
+<tr>
+        <td> 42. </td>
+        <td></td>
+        <td></td>
+        <td> </td>
+</tr>
+<tr>
+        <td> 43. </td>
+        <td>die Schreibwaren</td>
+        <td>writing materials</td>
+        <td> </td>
+</tr>
+<tr>
+        <td> 44. </td>
+        <td>die spielwaren</td>
+        <td>toys</td>
+        <td> </td>
+</tr>
+<tr>
+        <td> 45. </td>
+        <td>der Sportartikel</td>
+        <td>sports equipment</td>
+        <td> </td>
+</tr>
+<tr>
+        <td> 46. </td>
+        <td>die Tecknik</td>
+        <td>Technology</td>
+        <td> </td>
+</tr>
+<tr>
+        <td> 47. </td>
+        <td>die Herrenmode</td>
+        <td>Mens Collection</td>
+        <td> </td>
+</tr>
+<tr>
+        <td> 48. </td>
+        <td>Freizeitkleidung</td>
+        <td>Leisure clothes</td>
+        <td> </td>
+</tr>
+<tr>
+        <td> 49. </td>
+        <td>die Damenmode</td>
+        <td>the womans wear</td>
+        <td> </td>
+</tr>
+<tr>
+        <td> 50. </td>
+        <td></td>
+        <td></td>
+        <td> </td>
+</tr>
+
  </table>

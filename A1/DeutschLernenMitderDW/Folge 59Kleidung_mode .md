@@ -89,7 +89,7 @@ Das passt gut! -> That's a good fit
 </tr>
 <tr>
     <td>16</td>
-    <td>Pröbier mal das andere Hemd an</td>
+    <td> Pröbier mal das andere Hemd an</td>
     <td>Try the other shirt</td>
 </tr>
 <tr>

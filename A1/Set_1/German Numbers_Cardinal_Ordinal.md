@@ -1,5 +1,72 @@
-### Numbers from 1 to 100 
+# Numbers from 1 to 100 
+
+## die Zahl - die Zahlen 
+- s is pronounced as z in German, s is followed by vowel  then pronounced as zee zeeben - seiben
+- s is pronounced as s in German,if  s is preceded by last vowel or appears at last  then pronounced as es
+- When it is more than a million add -en at the end - zwei Millionen 2.000.000,zwei Millionen 2.000.000.000 - zwei Milliarden
+- Dots used after tausend
+- no gaps when writing numbers in words
+- Normal numbers - Cardinal Numbers
+- Jahreszahlen  Years in numbers
+- Ordinalzahlen Numbers Ordinal Numbers
+Ordinal numbers are written based on the geschlecht der/die/das
+Ordinal Numbers end are written with /./
+add -te for making it ordinal till twenty, after zwanzig add - ste
+for Lift floors - im ersten add -n
+am 06. on sechten `= born on sechsten
+
+
+Wie alt sind Sie? Formal  - rude to ask age
+Ich bin dreißig (Jahre alt).
+Wie alt bist du? inFormal
+Ich bin dreißig alt.
+
+
+Wie ist Ihre Handynummer? Formal
+Meine Handynummer ist 8123124555
+Acht ein zwei drei ein zwei vier fünf  fünf fünf 
+
+Wie ist deine Handynummer? Informal
+Wann sind Sie  geboren?
+
+Ich bin (im Jahre) neunzehnhundertdreiundneunzig geboren.
+I was born in (the year) 1993.
+
+
+
+Wann bist du geboren?
+Ich bin (im Jahre) neunzehnhundertdreiundneunzig geboren.
+I was born in (the year) 1993.
+
+Heute ist der 6. (sechste) April.
+Sie kommt am ersten April.
+Ich wurde am 06.04 (sechsten vierten ) geboren.
+
+der-die-das
+der erste. Juli - The first of July
+die erste. leibe- The first love
+das erste. Kind - first child
+
+Date today- Heute ist am ersten. Dezember.
+Heute ist der erste. Dezember.
+
+
+
+
+
+Learn German 3,4,2,16,33 
+
 https://www.youtube.com/watch?v=Bje6l_koJig&list=PLKCeuz6wxdQmcxBLovhrXzlLkFwqBy8Fd&index=2
+
+https://www.youtube.com/watch?v=d54ioeKA-jc&list=PLF9mJC4RrjIhS4MMm0x72-qWEn1LRvPuW&index=3
+
+https://www.youtube.com/watch?v=IaerX0Y6wmE&list=PLF9mJC4RrjIhS4MMm0x72-qWEn1LRvPuW&index=4
+
+https://www.youtube.com/watch?v=BISRFfjDKfY&list=PLF9mJC4RrjIhS4MMm0x72-qWEn1LRvPuW&index=16
+
+https://www.youtube.com/watch?v=ufzX0OL2-mI&list=PLF9mJC4RrjIhS4MMm0x72-qWEn1LRvPuW&index=33
+
+
 
 <table>
 <tr>
@@ -132,7 +199,7 @@ https://www.youtube.com/watch?v=Bje6l_koJig&list=PLKCeuz6wxdQmcxBLovhrXzlLkFwqBy
         70  
     </td>
     <td>
-        siebenzig  
+        siebzig  
     </td>
     <td>
         4  
@@ -351,10 +418,10 @@ https://www.youtube.com/watch?v=Bje6l_koJig&list=PLKCeuz6wxdQmcxBLovhrXzlLkFwqBy
 </tr>
 <tr>
     <td>
-        13  
+        13.000.000.000  
     </td>
     <td>
-        dreizehn  
+        dreizehn Millionarden 13 billion
     </td>
     <td>
         33  
@@ -442,7 +509,7 @@ https://www.youtube.com/watch?v=Bje6l_koJig&list=PLKCeuz6wxdQmcxBLovhrXzlLkFwqBy
         17  
     </td>
     <td>
-        siebenzehn  
+        siebzehn  
     </td>
     <td>
         37  
@@ -524,16 +591,42 @@ https://www.youtube.com/watch?v=Bje6l_koJig&list=PLKCeuz6wxdQmcxBLovhrXzlLkFwqBy
     <td>
         veier
     </td>
-    <td>
-    </td>
-    <td>  
-    </td>
-     <td>
-        20  
-    </td>
+    <td></td>
+    <td></td>
+     <td>20</td>
     <td>
     zwanzigste (-ste from here on)=
     </td>
 
 </tr>
+</table>
+
 <table>
+<tr>
+    <th>
+        Word  
+    </th>
+    <th>
+        Word
+    </th>
+</tr>
+<tr>
+    <td>im ersten Stock</td>
+    <td>im sechsten Stock</td>
+</tr>
+<tr>
+    <td>im zweiundzweiten Stock</td>
+    <td>im siebten Stock</td>
+</tr>
+<tr>
+    <td>im dritten Stock</td>
+    <td>im vierten Stock</td>
+</tr>
+</table>
+
+
+
+
+
+
+

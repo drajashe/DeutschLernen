@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=TytGj8xiPyY&list=PLKCEuz6wxDQnM6p0MzAKc_stZHGW0t
     <th>
         Pronunciation  
     </th>
-    <th>
+    <th>    
         Word-Sentence
     </th>
 </tr>

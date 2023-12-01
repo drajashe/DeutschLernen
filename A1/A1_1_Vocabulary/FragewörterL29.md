@@ -1,5 +1,7 @@
  # Fragwörter- Question words
 
+ Learn German - Lesson 29 +
+
 https://www.youtube.com/watch?v=7euPPqMFnqE&list=PLKCEuz6wxDQmcxBLovhrXZlLkFwqBy8Fd
 
 12 Question words
@@ -33,13 +35,13 @@ https://www.youtube.com/watch?v=7euPPqMFnqE&list=PLKCEuz6wxDQmcxBLovhrXZlLkFwqBy
         who
     </td>
     <td>
-       - Wer ist das? 
-       - Wer isst(essen) gern Äpfel?
-       - Wer wind Millionär?
+       - Wer ist das?</br>
+       - Wer isst(essen) gern Äpfel?</br>
+       - Wer sind Millionär?</br>
     </td>
     <td>
-       Who is this? 
-       Who likes to eat apples? Who becomes a millionaire?
+       Who is this?</br>
+       Who likes to eat apples? Who becomes a millionaire?</br>
     </td>
 </tr>
 <tr>
@@ -53,10 +55,10 @@ https://www.youtube.com/watch?v=7euPPqMFnqE&list=PLKCEuz6wxDQmcxBLovhrXZlLkFwqBy
         How
     </td>
     <td>
-        Wie geht's?
-        Wie alt bist du?
-        Wie heißt du?
-        Wie komme ich zum Bahnhof?
+        Wie geht's?</br>
+        Wie alt bist du?</br>
+        Wie heißt du?</br>
+        Wie komme ich zum Bahnhof?</br>
     </td>
     <td>
         How are you?
@@ -76,14 +78,15 @@ https://www.youtube.com/watch?v=7euPPqMFnqE&list=PLKCEuz6wxDQmcxBLovhrXZlLkFwqBy
         What
     </td>
     <td>
-    was ist das_
-    Was isst du gern?
-    Was heisst "table" auf Deutsch?        
+    was ist das_</br>
+    Was isst du gern?</br>
+    Was heisst "table" auf Deutsch?</br>
+    Was sind Sie von Beruf? </br>       
     </td>
     <td>
-    Whats that?
-    What do you like to eat?
-    What does "table" mean in German?
+    Whats that?</br>
+    What do you like to eat?</br>
+    What does "table" mean in German?</br>
     </td>
     
 </tr>
@@ -121,7 +124,7 @@ https://www.youtube.com/watch?v=7euPPqMFnqE&list=PLKCEuz6wxDQmcxBLovhrXZlLkFwqBy
     <td>
         Woher kommst du?
         Woher kommt dein Freund?
-        Wo kommst fu gerade her?
+        Wo kommst du gerade her?
     </td>
     <td>
     Where do you come from?
@@ -144,11 +147,14 @@ https://www.youtube.com/watch?v=7euPPqMFnqE&list=PLKCEuz6wxDQmcxBLovhrXZlLkFwqBy
         wohin gehts du?
         Wohin fahren wir?
         Wo geht sie hin?
+        Wohin fahrt ihr im Urlaub?
+        Wohin fahrst du heute?
     </td>
     <td>
         Where are you going?
         Where are we going?
         Where is she going?
+        Where are you going on vacation?
     </td>
 </tr>
 <tr>
@@ -207,12 +213,13 @@ https://www.youtube.com/watch?v=7euPPqMFnqE&list=PLKCEuz6wxDQmcxBLovhrXZlLkFwqBy
         Warum lernst du Deutsch?
         Warum ist der Himmel blau?
         Warum hat man Schluckauf?
-
+        Warum bist du trauzig?
     </td>
     <td>
         Why do you learn Deutsch?
         Whz ist the skyy blue?
         Why do you get hiccups?
+        Why are you sad?
     </td>
 </tr>
 
@@ -230,13 +237,28 @@ https://www.youtube.com/watch?v=7euPPqMFnqE&list=PLKCEuz6wxDQmcxBLovhrXZlLkFwqBy
        Wie oft lernst du Deutsch?
        Wie oft soll man die Haare waschen?
        Wie oft geht ihr ins Kino? 
+       Wie oft spielst du fußball?
+       Wie oft triffst du deine Fruendin?
     </td>
+    <td>
     How often do you learn Deutsch?
     How often do you wash your hair?
     How often do you go to the movies?
-    <td>
-        
+     How often do you meet your girlfriend?
     </td>
+</tr>
+<tr>
+    <td>
+        11  
+    </td>
+    <td>
+        Wen  
+    </td>
+    <td>
+        whom (Akusativ)
+    </td>
+    <td>Wen liebst du?</td>
+    <td>Whom do you love?</td>
 </tr>
 <tr>
     <td>
@@ -297,3 +319,5 @@ https://www.youtube.com/watch?v=7euPPqMFnqE&list=PLKCEuz6wxDQmcxBLovhrXZlLkFwqBy
 
 - Welches Bild gefällt dir?
   = Which picture do you like?(Nuetrum)
+
+= Welche sprachen sprichst du?

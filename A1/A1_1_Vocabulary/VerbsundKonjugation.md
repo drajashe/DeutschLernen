@@ -1,6 +1,9 @@
 # Verb conjugation
 
 
+- Modal verb comes in the first position for Ja-Nein Frage , and in second position in normal sen
+- the Haupt Verb will be in the ende - and in infinitiv form
+
 ### Verbs and forms 
 <table>
 <tr>
@@ -44,6 +47,24 @@
     <td>wandern</td>
     <td>wandert</td>
     <td>wandern</td>
+</tr>
+<tr>
+    <td>treffen - to meet (note the conjugations)</td>
+    <td>treffe</td>
+    <td>triffst</td>
+    <td>trifft</td>
+    <td>treffen</td>
+    <td>trefft</td>
+    <td>treffen</td>
+</tr>
+<tr>
+    <td>essen - to eat </td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
 </tr>
 <tr>
     <td>stehen - to suit someone/ to stand </td>
@@ -191,7 +212,7 @@
     <td>tanzen</td>
 </tr>
 <tr>
-    <td> </td>
+    <td>lachen laugh</td>
     <td></td>
     <td></td>
     <td></td>
@@ -200,7 +221,7 @@
     <td></td>
 </tr>
 <tr>
-    <td> </td>
+    <td>fragen- to ask</td>
     <td></td>
     <td></td>
     <td></td>
@@ -209,7 +230,144 @@
     <td></td>
 </tr>
 <tr>
-    <td> </td>
+    <td>Möchten- would like to</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td>Möchten- would like to</td>
+    <td>möchte</td>
+    <td>möchtest</td>
+    <td>möchte- Note verb conjugation for ich and er-sie-es is same</td>
+    <td>möchten</td>
+    <td>möchtet</td>
+    <td>möchten</td>
+    <td>
+    -This is used when expressing a wish (Wünsch)</br>
+    Ich möchte Ärztin werden.</br>
+    Wir möchten ins Kino gehen.</br>
+    Peter möchte in London studieren.(Focus on the position of the second verb)</br>
+    Was möchtest du essen?(W Frage)</br>
+    Möchtest du ins Kino gehen?(Ja Nein Frage)</br>
+    Ich möchte eine Cola. - no usage of 2nd verb</br>
+    Ich möchte eine Cola. - no usage of 2nd verb</br>
+    Ich möchte Apfel kaufen.</br>
+    Wir möchten in die USA fliegen.</br>
+    Wir möchten in die USA fliegen.</br>
+    Er möchte einen Hamburger.</br>
+    Möchtet ihr mitkommen.</br>
+    Ich möchte Pilot werden.</br>
+    Möchten Sie etwas bestellen.-Would you like to order something?(Lesson 28 LearnGerman)/br>
+    </td>
+</tr>
+<tr>
+    <td>mögen - maylike</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td>brauchen</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td>aufstehen</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td>bestellen order</td>
+    <td>bestelle</td>
+    <td>bestellst</td>
+    <td>bestellt</td>
+    <td>bestellen</td>
+    <td>bestellt</td>
+    <td>bestellen</td>
+</tr>
+
+<tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+
+<tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+
+<tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>

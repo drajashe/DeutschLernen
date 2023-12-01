@@ -4,6 +4,38 @@ https://www.youtube.com/watch?v=TytGj8xiPyY&list=PLKCEuz6wxDQnM6p0MzAKc_stZHGW0t
 
 
 ### Alphabets 
+
+<table>
+<tr>
+    <th>
+        Word  
+    </th>
+    <th>
+        Word-Sentence
+    </th>
+</tr>
+<tr>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td>der Fernseher</td>
+    <td>Television</td>
+</tr>
+<tr>
+    <td>das Auto</td>
+    <td></td>
+</tr>
+
+</table>
 <table>
 <tr>
     <th>
